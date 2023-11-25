@@ -1,3 +1,3 @@
 # Master-Thesis
 
-Files provided for master's thesis project
+Files are provided for master's thesis project
